@@ -1,36 +1,52 @@
-## Welcome to GitHub Pages
+## My shopping list
 
-You can use the [editor on GitHub](https://github.com/WalkingBrand/MSL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Groceries
+<ul>
+  <li>1 onion</li>
+  <li>150g / 5.3oz mushrooms</li>
+  <li>thumb of fresh ginger</li>
+  <li>200g / 7oz white cabbage</li>
+  <li>1 red pepper</li>
+  <li>2 tbsp dark soy sauce</li>
+  <li>1 lime</li>
+  <li>200g straight-to-wok udon noodles</li>
+  <li>3 spring onion</li>
+  <li>handful of salted peanuts</li>
+  <li>chilli flakes</li>
+</ul> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Actual Recipe
+<ul>
 
-# Header 1
-## Header 2
-### Header 3
+<li>Ingredients</li>
+<li>1 onion</li>
+<li>150g / 5.3oz mushrooms</li>
+<li>2 garlic cloves</li>
+<li>thumb of fresh ginger</li>
+<li>1 carrot</li>
+<li>200g / 7oz white cabbage</li>
+<li>1 red pepper</li>
+<li>vegetable oil</li>
+<li>2 tbsp smooth peanut butter</li>
+<li>2 tbsp dark soy sauce</li>
+<li>1 tsp caster sugar</li>
+<li>1 lime</li>
+<li>2 tsp sesame oil</li>
+<li>200g straight-to-wok udon noodles</li>
+<li>3 spring onion</li>
+<li>handful of salted peanuts</li>
+<li>sesame seeds</li>
+<li>chilli flakes</li>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WalkingBrand/MSL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Instructions
+<ol>
+<li>Fry onion 2-3 minutes on high heat. Add mushroom, garlic, ginger, carrot, cabbage and red pepper. Fry for 2-3 minutes.</li>
+<li>Combine peanut butter, soy sauce, sugar, juice from half of the lime and sesame oil in a bowl. Add sauce and noodles to wok. Fry for 3 minutes.</li>
+<li>Remove wok from heat. Stir in spring onion. Top with crushed peanuts, sesame seeds and chilli flakes, and slice remaining lime half into wedges to serve</li>
+</ol>
 
 ### Support or Contact
 
